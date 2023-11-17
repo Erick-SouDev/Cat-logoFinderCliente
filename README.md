@@ -1,2 +1,2 @@
 # CatálogoFinder
-aplicação  cleinte consumidor para api catalogo.
+aplicação  cliente consumidor para api catalogo.
