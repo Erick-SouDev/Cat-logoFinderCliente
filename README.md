@@ -1,2 +1,2 @@
 # SnapSubmit
-aplicação  cleinte consumidor para api curriculumExpress.
+aplicação  cleinte consumidor para api catalogo.
